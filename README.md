@@ -61,6 +61,12 @@ IBM-Project-34397-1660235048
 # Technical Architecture  
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
   <br><br>
+# Website Overview
+
+[<img src="https://i.ibb.co/SwsLMV5/1.png" alt="1" border="0">]()
+[<img src="https://i.ibb.co/rQMFZg0/2.png" alt="1" border="0">]()
+[<img src="https://i.ibb.co/bPJXChy/3.png" alt="1" border="0">]()
+
 
 # Result
 
