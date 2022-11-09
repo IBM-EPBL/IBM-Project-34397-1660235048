@@ -1,4 +1,4 @@
-<picture><img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/phishing-1200-sixteen_nine.jpg?size=948:533" alt="hacker-1" width="800" height="350" ></picture>
+<picture><img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202202/phishing-1200-sixteen_nine.jpg?size=948:533" alt="hacker-1" width="4000" height="260"></picture>
 <br><br>
 # Web Phishing Detection 
 IBM-Project-34397-1660235048
@@ -14,6 +14,19 @@ IBM-Project-34397-1660235048
   - Shanmugam S
   - Ramanaathan S 
   - Rahul B
+
+## Table of Content
+  * [Project Objectives](#project-objectives)
+  * [Introduction](#introduction)
+  * [Common threats of web phishing](#common-threats-of-web-phishing)
+  * [Technical Architecture](#technical-architecture)
+  * [Result](#result)
+    <br>  
+     - [Accuracy of various models](#accuracy-of-various-models)
+    <br>
+     - [Feature importance for Phishing URL Detection](#feature-importance-for-phishing-url-detection)
+  * [Conclusion](#conclusion)
+  * [Technologies Used](#technologies-used)
 
  # Project Objectives  
  
@@ -46,14 +59,13 @@ IBM-Project-34397-1660235048
 
 >In order to detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is based on using classification algorithms. We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The e-banking phishing website can be detected based on some important characteristics like URL and domain identity, and security and encryption criteria in the final phishing detection rate. Once a user makes a transaction online when he makes payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
 <br><br>
-
 # Technical Architecture  
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
   <br><br>
-  
+
 # Result
 
-## Accuracy of various model used for URL detection
+## Accuracy of various models
 
 ||ML Model|	Accuracy|  	f1_score|	Recall|	Precision|
 |---|---|---|---|---|---|
@@ -79,7 +91,7 @@ IBM-Project-34397-1660235048
  # Technologies Used
 
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width=200>](https://numpy.org/doc/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
-[<img target="_blank" src="https://images.velog.io/images/seokbin/post/e14f498a-a0b1-4880-9a88-98be38c50267/jupyter_logo_icon_169453.png" width=200>](https://jupyter.org/) 
+[<img target="_blank" src="https://images.velog.io/images/seokbin/post/e14f498a-a0b1-4880-9a88-98be38c50267/jupyter_logo_icon_169453.png " width=200>](https://jupyter.org/) 
 [<img target="_blank" src="https://kevin-hartman.io/images/tech/scikit-learn-logo.png" width=200>](https://scikit-learn.org/stable/) 
 [<img target="_blank" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" width=200>](https://flask.palletsprojects.com/en/2.0.x/) 
 [<img target="_blank" src="https://financialit.net/sites/default/files/ibm_cloud-ar21_0.png" width=200>](https://www.ibm.com/in-en/cloud?utm_content=SRCWW&p1=Search&p4=43700052661371387&p5=e&gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MNb2RC3e1TDBJhMnJdNAtW-tlFA3uNoTQQwUu0EKRW6GeB9INwZ4BoCpLgQAvD_BwE&gclsrc=aw.ds) 
