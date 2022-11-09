@@ -92,5 +92,5 @@ IBM-Project-34397-1660235048
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width=200>](https://numpy.org/doc/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width=200>](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
 [<img target="_blank" src="https://images.velog.io/images/seokbin/post/e14f498a-a0b1-4880-9a88-98be38c50267/jupyter_logo_icon_169453.png" width=200>](https://jupyter.org/) 
 [<img target="_blank" src="https://kevin-hartman.io/images/tech/scikit-learn-logo.png" width=200>](https://scikit-learn.org/stable/) 
-[<img target="_blank" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" width=200>](https://flask.palletsprojects.com/en/2.0.x/) 
+[<img target="_blank" src="https://i.ibb.co/7nDGQks/flask-removebg-preview.png" width=200>](https://flask.palletsprojects.com/en/2.0.x/) 
 [<img target="_blank" src="https://financialit.net/sites/default/files/ibm_cloud-ar21_0.png" width=200>](https://www.ibm.com/in-en/cloud?utm_content=SRCWW&p1=Search&p4=43700052661371387&p5=e&gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MNb2RC3e1TDBJhMnJdNAtW-tlFA3uNoTQQwUu0EKRW6GeB9INwZ4BoCpLgQAvD_BwE&gclsrc=aw.ds) 
