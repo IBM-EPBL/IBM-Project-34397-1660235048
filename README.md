@@ -23,7 +23,6 @@ IBM-Project-34397-1660235048
   * [Result](#result)
     <br>  
      - [Accuracy of various models](#accuracy-of-various-models)
-    <br>
      - [Feature importance for Phishing URL Detection](#feature-importance-for-phishing-url-detection)
   * [Conclusion](#conclusion)
   * [Technologies Used](#technologies-used)
