@@ -32,5 +32,5 @@ Flask is used as pipeline framework in our project where our model is connected 
 
 [<img target="_blank" src="https://i.ibb.co/7nDGQks/flask-removebg-preview.png" width=200>](https://flask.palletsprojects.com/en/2.0.x/) 
 [<img target="_blank" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width=200>](https://www.w3schools.com/htmL/default.asp) 
-[<img target="_blank" src="https://svn.python.org/www/trunk/beta.python.org/resources/docs/slideshow/images/newpythonlogo.png" width=200>](https://docs.python.org/3/) 
+ 
 
