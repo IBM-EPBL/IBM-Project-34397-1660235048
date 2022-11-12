@@ -1,8 +1,7 @@
 # Sprint 4
 
 ## Table of Content
-  * [Train ML model in IBM](#train-ml-model-in-ibm)
-  <br>  
+  * [Train ML model in IBM](#train-ml-model-in-ibm) 
      - [Creating API KEY](#creating-api-key)
      - [Deploying Model in IBM Cloud Storage](#deploying-model-in-ibm-cloud-storage)
   * [Integrating Flask with Scoring Endpoint](#integrating-flask-with-scoring-endpoint)
@@ -23,7 +22,7 @@ After creating a model in localhost we need to create and deploy the model in th
 
 ## Deploying Model in IBM Cloud Storage
 
-[<img target="_blank" src="https://i.ibb.co/b2sDj3F/Deployement-ID.png">](https://docs.python.org/3/) 
+[<img target="_blank" src="https://i.ibb.co/b2sDj3F/Deployement-ID.png ">](https://docs.python.org/3/) 
 
 [<img target="_blank" src="https://i.ibb.co/WfcyJdD/Model-Deployement.png">](https://docs.python.org/3/) 
 
