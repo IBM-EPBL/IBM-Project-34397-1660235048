@@ -3,14 +3,14 @@
 
 ## Table of Content
   * [Machine Learning Algorithms](#machine-learning-algorithms)
-     - [Logistic Regression](#logistic-regression)
-     - [Naive Bayes Classifier](#naive-bayes-classifier)
-     - [K-Nearest Neighbours](#k-nearest-neighbours)
-     - [Support Vector Machine](#support-vector-machine)
-     - [Decision Tree](#decision-tree)
-     - [Random Forest](#random-forset)
-     - [Gradient Boosting Classifier](#gradient-boosting-classifier)
-     - [CatBoost Classifier](#catboost-classifier)
+     - [Logistic Regression](#1-logistic-regression)
+     - [Naive Bayes Classifier](#2-naive-bayes-classifier)
+     - [K-Nearest Neighbours](#3-k-nearest-neighbours)
+     - [Support Vector Machine](#4-support-vector-machine)
+     - [Decision Tree](#5-decision-tree)
+     - [Random Forest](#6-random-forest)
+     - [Gradient Boosting Classifier](#7-gradient-boosting-classifier)
+     - [CatBoost Classifier](#8-catboost-classifier)
   * [Accuracy of various Models](#accuracy-of-various-models)
   * [Choosing the Best Models](#choosing-the-best-models)
 
